@@ -19,6 +19,5 @@ This repository contains a data pipeline and credit scoring model designed to an
 - Successfully verified that a borrower's **Credit History** is the strongest leading indicator for final risk profiling (with a ~79.5% approval distribution for positive history records).
 - Resolved features down to a clean, 100% complete dataset layout (`0 null values`) ready for high-performance classifiers like XGBoost.
 
----
-*Created as part of my preparation for a Master's in Data Science (Finance Track).*
+
 
